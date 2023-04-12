@@ -1,13 +1,11 @@
 # FlaskApp
-Simple Flask app to connect the server with the database MongoDB
+Simple Flask app for create users with MongoDB 
 
 ### Install Packages
 ```
 pip install -r requirements.txt
 ```
 ### Run app
-```
-pip install -r requirements.txt
 ```
 python app.py   
 ```
